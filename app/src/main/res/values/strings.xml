@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NITCMarket</string>
+    <string name="logout_button_text">Logout</string>
+    <string name="sell_button_text">Sell</string>
+    <string name="buy_button_text">Buy</string>
+    <string name="description_prompt">Enter Item description</string>
+    <string name="price_prompt">Enter Price</string>
+    <string name="item_desc">item: </string>
+    <string name="item_price">price:</string>
+</resources>
